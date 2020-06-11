@@ -2,3 +2,5 @@
 * Choc Mint
 * Pistachio
 * Rainbow
+* Apple Pie
+* Macadamia
